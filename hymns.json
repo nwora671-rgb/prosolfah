@@ -1,0 +1,231 @@
+[
+  {
+    "n": "001",
+    "title": "Amazing Grace",
+    "author": "John Newton",
+    "year": "1779",
+    "status": "Public domain",
+    "tune": "NEW BRITAIN",
+    "sections": [
+      {
+        "name": "Verse 1",
+        "lyrics": "Amazing grace! (how sweet the sound)\nThat saved a wretch like me!\nI once was lost, but now am found,\nWas blind, but now I see.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 2",
+        "lyrics": "'Twas grace that taught my heart to fear,\nAnd grace my fears relieved;\nHow precious did that grace appear\nThe hour I first believed!",
+        "solfa": []
+      },
+      {
+        "name": "Verse 3",
+        "lyrics": "Through many dangers, toils, and snares,\nI have already come;\n'Tis grace hath brought me safe thus far,\nAnd grace will lead me home.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 4",
+        "lyrics": "The Lord has promised good to me,\nHis word my hope secures;\nHe will my shield and portion be\nAs long as life endures.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 5",
+        "lyrics": "Yes, when this flesh and heart shall fail,\nAnd mortal life shall cease,\nI shall possess, within the veil,\nA life of joy and peace.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 6",
+        "lyrics": "The earth shall soon dissolve like snow,\nThe sun forbear to shine;\nBut God, who called me here below,\nWill be forever mine.",
+        "solfa": []
+      }
+    ]
+  },
+  {
+    "n": "002",
+    "title": "What a Friend We Have in Jesus",
+    "author": "Joseph M. Scriven",
+    "year": "1855",
+    "status": "Public domain",
+    "tune": "CONVERSE",
+    "sections": [
+      {
+        "name": "Verse 1",
+        "lyrics": "What a friend we have in Jesus,\nAll our sins and griefs to bear!\nWhat a privilege to carry\nEverything to God in prayer.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 2",
+        "lyrics": "Have we trials and temptations?\nIs there trouble anywhere?\nWe should never be discouraged,\nTake it to the Lord in prayer.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 3",
+        "lyrics": "Are we weak and heavy laden,\nCumbered with a load of care?\nPrecious Saviour, still our refuge,\nTake it to the Lord in prayer.",
+        "solfa": []
+      }
+    ]
+  },
+  {
+    "n": "003",
+    "title": "Blessed Assurance",
+    "author": "Fanny J. Crosby",
+    "year": "1873",
+    "status": "Public domain",
+    "tune": "ASSURANCE",
+    "sections": [
+      {
+        "name": "Verse 1",
+        "lyrics": "Blessed assurance, Jesus is mine!\nO what a foretaste of glory divine!\nHeir of salvation, purchase of God,\nBorn of His Spirit, washed in His blood.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 2",
+        "lyrics": "Perfect submission, perfect delight,\nVisions of rapture now burst on my sight;\nAngels descending, bring from above\nEchoes of mercy, whispers of love.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 3",
+        "lyrics": "Perfect submission, all is at rest,\nI in my Saviour am happy and blest;\nWatching and waiting, looking above,\nFilled with His goodness, lost in His love.",
+        "solfa": []
+      }
+    ]
+  },
+  {
+    "n": "004",
+    "title": "There's Not a Friend Like the Lowly Jesus",
+    "author": "Public-domain hymn",
+    "year": "",
+    "status": "Public-domain text supplied by user",
+    "tune": "Lowly Jesus",
+    "sections": [
+      {
+        "name": "Verse 1",
+        "lyrics": "There’s not a friend like the lowly Jesus\nNo, not one! No, not one!\nNone else could heal all our soul’s diseases\nNo, not one! No, not one!",
+        "solfa": [
+          "m m r d:- d t l: d l s:-",
+          "m m r:- m r d:-",
+          "m m r d:- d t l: d l s:-",
+          "m m r:- m r d:-"
+        ]
+      },
+      {
+        "name": "Chorus",
+        "lyrics": "Jesus knows all about our struggles\nHe will guide till the day is done;\nThere’s not a friend like the lowly Jesus\nNo, not one! No, not one!",
+        "solfa": [
+          "m s s:- l s: m m r d:-",
+          "m s s:- l s: m m r :",
+          "m m r d:- d t l: d l s:-",
+          "m m r: m r d:-"
+        ]
+      },
+      {
+        "name": "Verse 2",
+        "lyrics": "There’s not an hour that He is not near us\nNo, not one! No, not one!\nNo night so dark but His love can cheer us\nNo, not one! No, not one!",
+        "solfa": []
+      },
+      {
+        "name": "Verse 3",
+        "lyrics": "Did ever saint find this Friend forsake him?\nNo, not one! No, not one!\nOr sinner find that He would not take him?\nNo, not one! No, not one!",
+        "solfa": []
+      },
+      {
+        "name": "Verse 4",
+        "lyrics": "Was ever a gift like the Savior given?\nNo, not one! No, not one!\nWill He refuse us a home in Heaven?\nNo, not one! No, not one!",
+        "solfa": []
+      }
+    ]
+  },
+  {
+    "n": "005",
+    "title": "Abide With Me",
+    "author": "Henry Francis Lyte",
+    "year": "1847",
+    "status": "Public domain",
+    "tune": "EVENTIDE",
+    "sections": [
+      {
+        "name": "Verse 1",
+        "lyrics": "Abide with me; fast falls the eventide;\nThe darkness deepens; Lord, with me abide!\nWhen other helpers fail and comforts flee,\nHelp of the helpless, O abide with me.",
+        "solfa": [
+          "m:- m:",
+          "r: d:- s:- l: s: s f m:-:-:-",
+          "m:-",
+          "f s: l:- s:- f: r: m: fe s:-:-:-",
+          "m:-",
+          "m r: d:- s:- s: f: f m: r:-",
+          "r:-",
+          "m: f: m r: d: f m:- r:- d:-"
+        ]
+      },
+      {
+        "name": "Verse 2",
+        "lyrics": "I need Thy presence every passing hour;\nWhat but Thy grace can foil the tempter’s power?\nWho, like Thyself, my guide and stay can be?\nThrough cloud and sunshine, Lord, abide with me.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 3",
+        "lyrics": "Swift to its close ebbs out life’s little day;\nEarth’s joys grow dim; its glories pass away;\nChange and decay in all around I see;\nO Thou who changest not, abide with me.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 4",
+        "lyrics": "I fear no foe, with Thee at hand to bless;\nIlls have no weight, and tears no bitterness.\nWhere is death’s sting? Where, grave, thy victory?\nI triumph still, if Thou abide with me.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 5",
+        "lyrics": "Hold Thou Thy cross before my closing eyes;\nShine through the gloom and point me to the skies;",
+        "solfa": []
+      }
+    ]
+  },
+  {
+    "n": "006",
+    "title": "The Great Physician",
+    "author": "William Hunter",
+    "year": "",
+    "status": "Public-domain text supplied by user",
+    "tune": "The Great Physician",
+    "sections": [
+      {
+        "name": "Verse 1",
+        "lyrics": "The Great Physician now is near\nThe sympathising Jesus\nHe speaks the drooping heart to cheer\nOh hear the voice of Jesus",
+        "solfa": [
+          "s:",
+          "s:- m d:-r: m:-f: s:-",
+          "s:",
+          "s:- d m:- d: r:-:-d:-"
+        ]
+      },
+      {
+        "name": "Chorus",
+        "lyrics": "Sweetest note in Seraph song\nSweetest name on mortal tongue\nSweetest carol ever sung\nJesus blessed Jesus",
+        "solfa": [
+          "s:l t: d:- s: t:- l: s:-:-",
+          "s:l t: d:- s: t:- l: s:-:-",
+          "s:- m: d:- r m:-f: s:-:-",
+          ""
+        ]
+      },
+      {
+        "name": "Verse 2",
+        "lyrics": "Your many sins are all forgiv’n,\nOh, hear the voice of Jesus;\nGo on your way in peace to heav’n,\nAnd wear a crown with Jesus.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 3",
+        "lyrics": "All glory to the dying Lamb!\nI now believe in Jesus;\nI love the blessed Savior’s name,\nI love the name of Jesus.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 4",
+        "lyrics": "His name dispels my guilt and fear,\nNo other name but Jesus;\nOh, how my soul delights to hear\nThe charming name of Jesus.",
+        "solfa": []
+      },
+      {
+        "name": "Verse 5",
+        "lyrics": "And when to that bright world above,\nWe rise to see our Jesus,\nWe’ll sing around the throne of love\nHis name, the name of Jesus.",
+        "solfa": []
+      }
+    ]
+  }
+]
