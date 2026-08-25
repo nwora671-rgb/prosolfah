@@ -1,4 +1,11 @@
-# ProSolfah V3
-Static Vercel-ready hymn/tonic-sol-fa app.
-Features: search, filters, favorites, reader, supplied sol-fa display, basic tone playback, speed control, dark/light mode.
-Important: sol-fa is only shown when supplied by the user or verified; missing notation is not invented.
+# ProSolfah V4
+PWA-ready responsive hymn and tonic-sol-fa library.
+- Search and filters
+- Favorites
+- Lyrics + supplied/verified sol-fa fields
+- Practice tone playback and speed control
+- Key shift controls
+- Dark/light mode
+- Mobile-first layout
+
+Only public-domain hymn text is included in this starter. Missing sol-fa is not invented.
